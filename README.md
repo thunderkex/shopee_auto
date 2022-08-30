@@ -1,4 +1,4 @@
-# sopi_auto
+# shopee_auto
 a few of example methods to buy something at shopee
 
 no documentation needed :)
