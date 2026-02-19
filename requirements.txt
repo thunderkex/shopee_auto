@@ -1,2 +1,4 @@
-requests_random_user_agent
-selenium
+requests
+python-dotenv
+pytest
+requests-mock
